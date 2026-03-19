@@ -2,7 +2,7 @@
 
 Render JSON as an interactive collapsible tree with color-coded node types, entirely in the browser.
 
-**Live Demo:** https://file-converter-free.com/en/developer-tools/json-tree-viewer
+**Live Demo:** https://file-converter-free.com/en/developer-tools/json-tree-viewer-online
 
 ## How It Works
 
